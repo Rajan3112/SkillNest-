@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://skillnest-o8ux.onrender.com/api',
+  baseURL: 'https://skillnest-backend-cbu0.onrender.com',
   headers: { 'Content-Type': 'application/json' },
 });
 
